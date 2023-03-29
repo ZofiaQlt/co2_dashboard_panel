@@ -1,5 +1,5 @@
 # World CO2 emissions
-## Interactive visualization dashboard in Python with Panel
+## Interactive visualization dashboard in Python using Panel
 
 <img width="179" alt="" src="https://user-images.githubusercontent.com/67431758/228684171-9234f1be-9742-4786-b967-4aec44d1abfa.png">
 
