@@ -11,5 +11,3 @@ panel serve Interactive_dashboard.ipynb
 ```
 
 <img width="2048" alt="" src="https://user-images.githubusercontent.com/67431758/228679432-18f9c4b3-e3c6-4fef-a196-f1070638db1b.png">
-
-
