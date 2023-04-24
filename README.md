@@ -5,7 +5,7 @@
 
 The dataset comes from the Github repository of "Our World in Data" : https://github.com/owid/co2-data
 
-To serve the dashboard locally, use the below command:
+To serve the dashboard locally, use the below command: 
 ```
 panel serve Interactive_dashboard.ipynb
 ```
